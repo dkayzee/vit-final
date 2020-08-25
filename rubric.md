@@ -1,6 +1,6 @@
 # FINAL PROJECT RUBRIC
 
-### Final Project: The Game
+### Final Project: The Second
 
 Final Project will be assessed using the following standards and evaluation metrics within those standards, as defined by the course syllabus and employer feedback:
 
